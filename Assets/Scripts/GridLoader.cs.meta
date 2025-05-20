@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 535c4fa2b87e5264287a1e9028c8a301
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Red: {instanceID: 0}
+  - Blue: {instanceID: 0}
+  - Green: {instanceID: 0}
+  - Yellow: {instanceID: 0}
+  - Stone: {instanceID: 0}
+  - Vase: {instanceID: 0}
+  - Box: {instanceID: 0}
+  - LevelDataLoader: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
