@@ -55,9 +55,18 @@ public class SelectNextLevel : MonoBehaviour
         PlayerPrefs.SetInt("CurrentLevel", 1);
         PlayerPrefs.Save();
     }
-    
+
     void EnableButton()
     {
         PlayButton.interactable = true;
     }
+
+    public void ResetGame()
+    {
+        SetLevelPref1();
+        LevelDataLoader.Instance.LevelToLoad = PlayerPrefs.GetInt("CurrentLevel");
+        UpdateLevelButton();
+    }
+
+
 }
