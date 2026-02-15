@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DreamGames_SofwareEngineer_CaseStudy.sln"
+    "dotnet.defaultSolution": "Blast_Game_Prototype.sln"
 }
